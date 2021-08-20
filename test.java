@@ -1,4 +1,5 @@
 public class Simple{
 	public static void main(String args[]){
-		System.out.println("Hello git world change in Master");
-	}}
+		System.out.println("Hello world");
+	}
+}
